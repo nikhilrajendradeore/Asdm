@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<h3>Current Date and Time</h3>
+
 <p><%=session.getAttribute("date") %></p>
 <p><%=session.getAttribute("time") %></p>
 
